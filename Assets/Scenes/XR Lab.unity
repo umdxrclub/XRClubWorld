@@ -270,6 +270,120 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 6469.9995, y: 5.303491e-11, z: 7463.9995}
   m_Center: {x: -231, y: -6.536993e-13, z: 347.99997}
+--- !u!1001 &447239025
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 10eabbb7d2eb2b14596b8916c85c9083, type: 2}
+    - target: {fileID: -7417862942726244776, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 72e738e46c87f444eba9adc6cddb29f6, type: 2}
+    - target: {fileID: -6091108864770720747, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3d0f68c4edbee894fa429bcbc77e57fd, type: 2}
+    - target: {fileID: -4062725538238225712, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4062725538238225712, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 91772d4bf2c998a42899db4857ce4766, type: 2}
+    - target: {fileID: -3230359877503427227, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4de5b058fe77e3d4c9a3e571c8d0ecc9, type: 2}
+    - target: {fileID: 919132149155446097, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_Name
+      value: xrlab (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2012613210715447444, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c19e1fc1aee62e343b15631d4eaeb390, type: 2}
+    - target: {fileID: 6239713700365623369, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 10eabbb7d2eb2b14596b8916c85c9083, type: 2}
+    - target: {fileID: 9088650950340755983, guid: 64714c74a8e485549a2a7944cf9e45c9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 72e738e46c87f444eba9adc6cddb29f6, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 64714c74a8e485549a2a7944cf9e45c9, type: 3}
 --- !u!1 &1043952095 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1158926090259972915, guid: e22b8a2121ef54a47b4e83f82e95c0f2,
@@ -579,6 +693,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: xrlab
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e22b8a2121ef54a47b4e83f82e95c0f2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2106032486000229639, guid: e22b8a2121ef54a47b4e83f82e95c0f2,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -679,6 +798,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRCWorld
       objectReference: {fileID: 0}
+    - target: {fileID: 1415578911040940289, guid: 8894fa7e4588a5c4fab98453e558847d,
+        type: 3}
+      propertyPath: serializedProgramAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8917575e3338ab54daaa35423a58012b,
+        type: 2}
     - target: {fileID: 6759095419728963412, guid: 8894fa7e4588a5c4fab98453e558847d,
         type: 3}
       propertyPath: unityVersion
